@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+canvas{
+    border: 3px solid black;
+    background-color: rgb(10, 35, 43);
+}
